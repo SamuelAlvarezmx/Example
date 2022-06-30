@@ -9,7 +9,7 @@ As we can see there is a increasing trend of plays been successful beginning in 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/104656920/176547161-8700cbc2-478a-4191-bcfc-62361bc343f8.png)
 ### Analysis of Outcomes Based on Goals
 * The recommendation is to set a goal for the play that is under a budget of 20K dollars, because it is clear that beyond that number it is more probable to fail, as we can see in the line chart where the number of fail percentage goes above the line of the successful one. So the risk of failing increases above 50% when setting a goal over 20k.
-* In the chart are shown peeks of success percentage in high goals, however, indicating outliers in the data, because the number of projects that searched for that kind of money are the fewer and it is not representative of the whole scenario that we are looking on the other Kickstarter´s plays
+* In the chart are shown peeks of success percentage in high goals, indicating outliers in the data because the number of projects that searched for that kind of money are the fewer and it is not representative of the whole scenario that we are looking on the other Kickstarter´s plays
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/104656920/176547181-56f6e87f-fc01-4422-a996-283792dc9853.png)
 
 ### Challenges and Difficulties Encountered
@@ -23,10 +23,10 @@ As we can see there is a increasing trend of plays been successful beginning in 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   1. Louise play was successful therefore she might released her project during the months of April and May which accroding to the data are the most successful months throughout the year.
-  2. The last quarter of the year and also the beginning of the year is when most of the failed projects started. This might be because people are spending their money in different things because of the holidays and have no money to support Kickstarter plays.
+  2. The last quarter of the year and also the beginning of the year is when most of the failed projects started. This might be because people are spending their money in different things because of the holidays and have no money to support Kickstarter´s plays.
 
 - What can you conclude about the Outcomes based on Goals?
-  1. It is bettter to set a goal under 20k in order to stay in the safe side of the Kickstarters funding because the failing percentage of the kickstarters begin to increase beyond this point.
+  1. It is bettter to set a goal under 20k in order to stay in the safe side of the Kickstarter funding because the failing percentage of the kickstarters begin to increase beyond this point.
 
 - What are some limitations of this dataset?
   * One of the difficulties I could find is that the blurbs are not in the same language, so we cannot understand sometimes what the project in the Kickstarter was about.
